@@ -11,3 +11,6 @@ export 'src/city_picker.dart';
 export 'src/utils/index.dart';
 export 'src/show_types.dart';
 export 'src/util.dart';
+export 'src/full_page/full_page.dart';
+export 'src/cities_selector/cities_selector.dart';
+export 'src/base/base.dart';
